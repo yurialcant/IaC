@@ -1,0 +1,15 @@
+### Terraform ###
+# Local .terraform directories
+**/.terraform/*
+
+# .tfstate files
+*.tfstate
+*.tfstate.*
+
+# Acess Key
+*.pem
+
+#vscode
+*.vscode
+
+settings.json
